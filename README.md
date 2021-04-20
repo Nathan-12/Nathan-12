@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Me chamo Nathan Lima, mestrando em computação pela UFC campus Quixadá, graduado em Sistemas de Informação também pela UFC campus Quixadá. Tenho experiências em desenvolvimento de softwares, mais especificamente aplicações Web. Possuo interesse por pesquisas relacionadas a área de Interação-humano-computador e também em desenvolvimento full stack.
+Me chamo Nathan Lima, sou mestrando em computação pela UFC campus Quixadá, graduado em Sistemas de Informação também pela UFC campus Quixadá. Tenho experiências em desenvolvimento de softwares, mais especificamente aplicações Web. Possuo interesse por pesquisas relacionadas a área de Interação-humano-computador e também em desenvolvimento full stack.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Nathan-12&repo=Nathan-12&countColorcountColor)
 
