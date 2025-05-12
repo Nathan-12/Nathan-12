@@ -14,7 +14,7 @@ I'm passionate about web development and scientific research. I hold a Master's 
 <img src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" width="30"/>
 <img src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" width="30"/>
 <img src="https://emojis.slackmojis.com/emojis/images/1536564975/4642/spring.png?1536564975" width="30"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="30"/>
+<img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-912x1024-j3yidw37.png" width="30"/>
 <img src="https://img.icons8.com/color/600/net-framework.png" width="30"/>
 </p>
 
